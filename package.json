@@ -2,7 +2,7 @@
     "name": "wills-solarized-light",
     "displayName": "wills-solarized-light",
     "description": "Will's Custom Solarized Light Theme",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "willosbourne",
     "engines": {
         "vscode": "^1.42.0"
