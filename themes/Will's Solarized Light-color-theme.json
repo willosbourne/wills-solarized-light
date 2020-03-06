@@ -4,8 +4,8 @@
 	"colors": {
 		"activityBar.background": "#ddd6c1",
 		"activityBar.dropBackground": "#eee8d5",
-		"activityBar.foreground": "#584c27",
-		"activityBarBadge.background": "#b58900",
+		"activityBar.foreground": "#4b0b64",
+		"activityBarBadge.background": "#76448a",
 		"badge.background": "#b58900aa",
 		"button.background": "#ac9d57",
 		"debugExceptionWidget.background": "#ddd6c1",
@@ -15,8 +15,8 @@
 		"dropdown.border": "#d3af86",
 		"editor.background": "#fdf6e3",
 		"editor.lineHighlightBackground": "#eee8d5",
-		"editor.selectionBackground": "#eee8d5",
-		"editorCursor.foreground": "#657b83",
+		"editor.selectionBackground": "#e3d5ee",
+		"editorCursor.foreground": "#914eac",
 		"editorGroup.border": "#ddd6c1",
 		"editorGroup.dropBackground": "#ddd6c1aa",
 		"editorGroupHeader.tabsBackground": "#d9d2c2",
@@ -407,7 +407,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#657B83"
+				"foreground": "#665470"
 			}
 		},
 		{
