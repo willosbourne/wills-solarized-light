@@ -3,6 +3,7 @@
     "displayName": "wills-solarized-light",
     "description": "Will's Custom Solarized Light Theme",
     "version": "0.1.0",
+    "publisher": "willosbourne",
     "engines": {
         "vscode": "^1.42.0"
     },
@@ -14,7 +15,7 @@
             {
                 "label": "Will's Solarized Light",
                 "uiTheme": "vs",
-                "path": "./themes/Will's Solarized Light-color-theme.json"
+                "path": "./themes/wills-solarized-light-color-theme.json"
             }
         ]
     }
